@@ -27,15 +27,11 @@ password: TestPass03.
 
 User:
 
-For working E-Mail Notification:
-
 email: electrotown.test@mintmaru.io
 password: TestUser01.
 
 email: calub.veim@mintmaru.io
 password: Lily9080.
-
-E-Mail does not work (As email address does not exist) but still able to be used for testing administrative functions:
 
 email: user@test.com
 password: TestPass02.
@@ -43,14 +39,6 @@ password: TestPass02.
 email: test.signup@test.com
 password: TestPass04.
 
-E-Mail account credentials (These are using Zoho mail, which can be accessed at mail.zoho.com)
-Warning: Different with my website's password!
-
-email: calub.veim@mintmaru.io
-password: Niji9080.
-
-email: electrotown.test@mintmaru.io
-password: Genshin9080.
 
 Banned Account For Testing
 
