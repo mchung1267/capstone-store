@@ -2,11 +2,18 @@ This is a Kijiji-inspired platform for selling / buying used items.
 본 프로젝트는 캐나다의 중고거래 플랫폼 Kijiji 에서 영감을 받아 제작한 중고거래 플랫폼입니다.
 
 사용한 언어:
+
 - PHP
+  
 - JavaScript
+  
 - React
+
+  
 프레임워크:
 - Codeigniter
+
+  
 데이터베이스:
 - MySQL
 
